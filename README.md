@@ -1,2 +1,2 @@
 # Student-complaint-Management-System
-A comlaint management system for student
+A complaint management system for student
